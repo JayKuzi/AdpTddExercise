@@ -1,0 +1,5 @@
+/.idea/
+/target/
+/nbproject/
+nbactions.xml
+.DS_Store
