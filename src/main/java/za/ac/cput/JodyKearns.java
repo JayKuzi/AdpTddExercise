@@ -14,7 +14,7 @@ public class JodyKearns {
         switch (unitOfMeasurement.toUpperCase()) {
             case "CM":
                 return "The measurement in Inches is: " + (measurement / 2.54);
-            case "F":
+            case "INCH":
                 return "The measurement in Centimeters is: " + (measurement * 2.54);
             default:
                 return "Invalid unit of measurement";
