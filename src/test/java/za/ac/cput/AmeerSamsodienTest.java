@@ -35,6 +35,5 @@ class AmeerSamsodienTest {
     @Disabled
     @Test
     void disabledTest(){
-
     }
 }
